@@ -19,6 +19,20 @@ body {
 
 }
 
+.edgeAlignLeft
+{
+    /* text-align: center can also sometimes work on images */
+    text-align:left;
+
+}
+
+.edgeAlignRight
+{
+    /* text-align: center can also sometimes work on images */
+    text-align:right;
+
+}
+
 .welcome {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 18px;
@@ -102,6 +116,7 @@ body {
     display: flex;
 }
 
+/* Drinks flexbox */
   /* Create two equal columns that sits next to each other */
 .column {
     flex: 50%;
@@ -112,6 +127,7 @@ body {
     display: flex;
 }
 
+/* footer flexbox */
 .column2 {
     background-color: black;
     flex: 20%;
@@ -171,4 +187,11 @@ a:active { text-decoration: none; }
 .footerCredits a:hover { 
     text-decoration: none;
     color:magenta;
+}
+
+
+/* top menu flexbox - Create three equal columns that sits next to each other */
+.flexTopMenu {
+    flex: 33.33%;
+    padding: 5px;
 }
