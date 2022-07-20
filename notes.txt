@@ -1,0 +1,13 @@
+
+
+Use chrome not firefox when analyzing a website with dev tools.
+Chrome has better dev tools.
+
+Create the structure with html & css first.
+Add the images last after all the image placeholder divs etc. are in the right places.
+
+Right click on any elemenet e.g. some text to find out the size.
+Just mouse over the code in the devtools. easier.
+
+- how to check the padding around the logo? will manually do it later by having tab windows side by side
+- For now just add more content
