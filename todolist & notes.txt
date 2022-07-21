@@ -1,10 +1,11 @@
 Todo:
 
-[] post challenge-hover caoursel.. see if someone can make hover work on this...
+[] post challenge-hover carousel.. see if someone can make hover work on this...
 .. put example of hover working... I can publish the page on pages too as /hover.html..
 just link that html.. should be enough.
 
-[] top left hamburger menu
+[x] top left hamburger toggle menu
+[] add items & style hamburger menu
 [x] add the bubble images around the welcome text
 [x] image carousel 
 [x] add additional images to the carousel so that they're all there, just like on nq64.co.uk

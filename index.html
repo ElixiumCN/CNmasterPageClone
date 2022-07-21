@@ -7,6 +7,7 @@
 
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="carousel2.css">
+    <link rel="stylesheet" href="hamburger.css">
 
     <!-- include bootstrap CSS above all other CSS files -->
 
@@ -45,7 +46,23 @@
     </video>
 <div class="row">
 <div class="flexTopMenu">
-    <p class="welcome edgeAlignLeft">[hamburger menu]</p>
+    <!-- <p class="welcome edgeAlignLeft">[hamburger menu]</p> -->
+
+    <a href="#menu" id="toggle"><span></span></a>
+
+    <div id="menu">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Games</a></li>
+        <li><a href="#">Drinks Menu</a></li>
+        <li><a href="#">Locations</a></li>
+        <li><a href="#">Gift Cards</a></li>
+        <li><a href="#">Contact Us</a></li>
+        <li><a href="#">FAQ</a></li>
+        
+      </ul>
+    </div>
+
 <!-- <img src="images/logo.png" alt="Snow" style="width:100%"> -->
 </div>
 <div class="flexTopMenu center2">
@@ -319,6 +336,7 @@ otherwise the footer credit link wouldn't style properly. -->
 <div class="upb_row_bg vcpb-default" data-upb_br_animation="" data-parallax_sense="30" data-bg-override="0" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" style="background-size: initial; background-repeat: no-repeat; background-color: rgba(0, 0, 0, 0); background-image: url(&quot;https://nq64.co.uk/wp-content/uploads/2020/10/titleline.png&quot;); background-attachment: scroll; min-width: 2526.67px; left: 0px; width: 2526px;"></div>
 
 </body>
+<script src="hamburger.js"></script>
 <script src="carousel2.js"></script>
 
 </html>
