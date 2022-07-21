@@ -199,7 +199,7 @@ a:active { text-decoration: none; }
 /* try 2 seperate flexboxes, 1 for 4 images each. gg. */
 .flexLocationImages {
 flex: 25%;
-padding: 5px;
+padding: 10px;
 }
 
 .video-container {
@@ -233,4 +233,17 @@ padding: 10px;
     width: 100%;
     /* max-width:; */
     position: relative;
+}
+
+.zoom {
+    /* padding: 50px; */
+    /* background-color: green; */
+    transition: transform .6s; /* Animation */
+    /* width: 200px;
+    height: 200px;
+    margin: 0 auto; */
+}
+
+.zoom:hover {
+    transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
