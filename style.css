@@ -16,7 +16,16 @@ body {
 .center2 {
     /* text-align: center can also sometimes work on images */
     text-align: center;
+    justify-content: center;
 
+    
+}
+
+.center3 {
+    /* text-align: center can also sometimes work on images */
+    text-align: center;
+
+    
 }
 
 .edgeAlignLeft
@@ -247,3 +256,51 @@ padding: 10px;
 .zoom:hover {
     transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
+
+.welcomebgimg {
+    background-image: url('images/splats2.png');
+    width: 100%;
+}
+
+ /* Container holding the image and the text */
+ .containerWelcome {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Bottom left text */
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  
+  /* Top left text */
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
+  /* Top right text */
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  
+  /* Bottom right text */
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  } 

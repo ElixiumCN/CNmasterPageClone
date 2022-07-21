@@ -1,14 +1,15 @@
-
-
-
-
-
-
-
 Todo:
 
-- at the bubble images around the welcome text
-- 
+[] top left hamburger menu
+[] add the bubble images around the welcome text
+[x] image carousel 
+[] add additional images to the carousel so that they're all there, just like on nq64.co.uk
+[] hover image on carousel
+[x] hover image test
+[x] update location images
+[x] add white stripes via photoshop hack. looks like they're using SVG so it may be difficult any other way.
+
+- 1250px final image width for games & drinks titles
 
 
 
