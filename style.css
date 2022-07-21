@@ -224,3 +224,13 @@ text-align: center;
 color: #dc0000;
 padding: 10px;
 }
+
+.wrapper2 {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    /* max-width:; */
+    position: relative;
+}

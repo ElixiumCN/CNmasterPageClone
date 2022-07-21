@@ -1,5 +1,17 @@
 
 
+
+
+
+
+
+Todo:
+
+- at the bubble images around the welcome text
+- 
+
+
+
 Use chrome not firefox when analyzing a website with dev tools.
 Chrome has better dev tools.
 
@@ -11,3 +23,4 @@ Just mouse over the code in the devtools. easier.
 
 - how to check the padding around the logo? will manually do it later by having tab windows side by side
 - For now just add more content
+
