@@ -4,12 +4,15 @@ Todo:
 .. put example of hover working... I can publish the page on pages too as /hover.html..
 just link that html.. should be enough.
 
+
+Image carousel image hover tweak challenge, if anyones interested.
+
 [x] top left hamburger toggle menu
-[] add items & style hamburger menu
+[x] add items & style hamburger menu
 [x] add the bubble images around the welcome text
 [x] image carousel 
 [x] add additional images to the carousel so that they're all there, just like on nq64.co.uk
-[] hover image on carousel
+[x] hover image on carousel - posted challenge
 [x] hover image test
 [x] update location images
 [x] add white stripes via photoshop hack. looks like they're using SVG so it may be difficult any other way.

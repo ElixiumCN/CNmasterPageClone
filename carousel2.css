@@ -68,7 +68,11 @@
   .item {
     width: 280px;
     height: 280px;
-    background: rgba(51, 170, 51, .0)
-    
+    background: rgba(51, 170, 51, .0);
+    transition: transform .7s ease-in-out;
   }
   
+.item:hover {
+    /* transform: rotate(360deg); */
+    transform: scale(1.3);
+}
