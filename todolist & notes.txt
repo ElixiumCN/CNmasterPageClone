@@ -4,9 +4,10 @@ Todo:
 .. put example of hover working... I can publish the page on pages too as /hover.html..
 just link that html.. should be enough.
 
-
-Image carousel image hover tweak challenge, if anyones interested.
-
+[] apply hover zoom to location images
+[] apply hover zoom to drinks images
+[x] Image carousel image hover tweak challenge, if anyones interested.
+[x]-- I fixed the image carousel hover myself, with the transition code required for the code nation logo spin activity.
 [x] top left hamburger toggle menu
 [x] add items & style hamburger menu
 [x] add the bubble images around the welcome text
