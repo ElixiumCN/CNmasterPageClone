@@ -1,0 +1,17 @@
+ActivityCSSButton Challenge
+Create a HTML page with buttons of the following:
+[x] • Code Nation Logo in the centre of the page so you can hover over it.
+[x] • Make this logo spin on hover.
+• 4 buttons around the logo which link to:
+• Website
+• Facebook
+• Twitter
+• Instagram
+
+
+• These buttons to have:
+• 4 different shapes [x]
+• Shadows
+• A different animation on each one when hover. [3 of 4]
+• Change of color when clicked.
+• Background image with at least two animations.
